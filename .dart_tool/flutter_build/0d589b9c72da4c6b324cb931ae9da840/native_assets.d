@@ -1,0 +1,1 @@
+ C:\\Users\\Dell\\Desktop\\Personal(Ayoub)\\study\\enset\\cours_wdkchi\\s4\\mobile\\application05-10\ flutter\\first_app\\.dart_tool\\flutter_build\\0d589b9c72da4c6b324cb931ae9da840\\native_assets.yaml: 

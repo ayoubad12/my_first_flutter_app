@@ -1,0 +1,4 @@
+#Mon May 13 17:43:18 WEST 2024
+base.0=C\:\\Users\\Dell\\Desktop\\Personal(Ayoub)\\study\\enset\\cours_wdkchi\\s4\\mobile\\application05-10 flutter\\first_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
